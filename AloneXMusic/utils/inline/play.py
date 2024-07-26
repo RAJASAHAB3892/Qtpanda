@@ -69,9 +69,9 @@ def stream_markup_timer(_, chat_id, played, dur):
                  [
             InlineKeyboardButton(
 
-                text="ᴅᴇᴠ 💕",
+                text="𝐕𝐈𝐑𝐔💕",
 
-                url=f"t.me/{OWNER_USERNAME}",
+                url=f"t.me/RAJASAHAB3891",
 
             ),
             InlineKeyboardButton(
@@ -99,9 +99,9 @@ def stream_markup(_, chat_id):
                  [
             InlineKeyboardButton(
 
-                text="ᴅᴇᴠ 💕",
+                text="𝐕𝐈𝐑𝐔💕",
 
-                url=f"t.me/{OWNER_USERNAME}",
+                url=f"t.me/Rajasahab3891",
 
             ),
             InlineKeyboardButton(
