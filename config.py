@@ -16,7 +16,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","ALONE_WAS_BOT")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "AloneXMusicBot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Alone Music")
+BOT_NAME = getenv("BOT_NAME" , "𝗞𝗲𝘁𝘁𝘆 𝗣𝗮𝗶 ° !")
 #get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME" , "AloneXHelper")
 
@@ -39,7 +39,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TeamAloneOp/AloneXMusic",
+    "https://te.legra.ph/file/ebc3fc421b8776e29ad98.mp4",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
