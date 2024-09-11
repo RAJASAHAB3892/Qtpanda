@@ -18,7 +18,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "AloneXMusicBot")
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "𝗞𝗲𝘁𝘁𝘆 𝗣𝗮𝗶 ° !")
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME" , "AloneXHelper")
+ASSUSERNAME = getenv("ASSUSERNAME" , "𝗞𝗲𝘁𝘁𝘆 𝗣𝗮𝗶 ° !")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
